@@ -5,4 +5,5 @@
 * ### Major: SSE
  * #### Instructor: Tim Maciag
  * #### Lab Instructor: Adam Tilson
- * ##### ~~lets get this bread babyyyyyyy~~
+
+Please refer to the folders for Lab assignments in order! Thanks
